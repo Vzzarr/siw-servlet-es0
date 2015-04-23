@@ -18,7 +18,6 @@ public class MostraParametri extends HttpServlet {
 		// gestione della RICHIESTA
 
 		//hello-world
-//		mario maria mario
 		// leggo i parametri
 		String nome = request.getParameter("nome");
 		String cognome = request.getParameter("cognome");
